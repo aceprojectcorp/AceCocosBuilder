@@ -1,0 +1,9 @@
+CocosBuilder-3.0.alpha5-src/build/
+CocosBuilder-3.0.alpha5-src/Plugin Nodes/
+!CocosBuilder-3.0.alpha5-src/Plugin Nodes/CCRotatingSprite
+CocosBuilder-3.0.alpha5-src/CocosBuilder/CocosBuilder.xcodeproj/project.xcworkspace
+CocosBuilder-3.0.alpha5-src/CocosBuilder/CocosBuilder.xcodeproj/xcuserdata
+CocosBuilder-3.0.alpha5-src/CocosBuilder/libs/Fragaria/Fragaria.xcodeproj/project.xcworkspace/
+CocosBuilder-3.0.alpha5-src/CocosBuilder/libs/Fragaria/Fragaria.xcodeproj/xcuserdata/
+cocos2d-x-2.1.4/projects/
+cocos2d-x-2.1.4/cocos2dx/proj.ios/cocos2dx.xcodeproj/xcuserdata/
