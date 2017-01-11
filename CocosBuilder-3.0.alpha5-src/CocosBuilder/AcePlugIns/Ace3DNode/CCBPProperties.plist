@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritsFrom</key>
+	<string>CCNode</string>
+	<key>requireParentClass</key>
+	<string>Ace3DWorld</string>
+	<key>canHaveChildren</key>
+	<string>YES</string>
+	<key>className</key>
+	<string>Ace3DNode</string>
+	<key>editorClassName</key>
+	<string>Ace3DNode</string>
+	<key>properties</key>
+	<array>
+		<dict>
+			<key>displayName</key>
+			<string>Ace3DNode_Setting</string>
+			<key>type</key>
+			<string>Separator</string>
+			<key>name</key>
+			<string>Setting</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>objectPositionRefresh</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>objectPositionRefresh</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>object_x</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>m_object_x</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>object_y</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>m_object_y</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>object_z</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>m_object_z</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritsFrom</key>
+	<string>CCNode</string>
+	<key>canHaveChildren</key>
+	<string>YES</string>
+	<key>className</key>
+	<string>AceCompositeLabel</string>
+	<key>editorClassName</key>
+	<string>AceCompositeLabel</string>
+	<key>properties</key>
+	<array>
+		<dict>
+			<key>displayName</key>
+			<string>AceCompositeLabel_Setting</string>
+			<key>type</key>
+			<string>Separator</string>
+			<key>name</key>
+			<string>Setting</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>gapX</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>gapX</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>m_align_left</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>m_align_left</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>m_align_center</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>m_align_center</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>m_align_right</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>m_align_right</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>contentSizeRefresh</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>contentSizeRefresh</string>
+		</dict>
+	</array>
+</dict>
+</plist>

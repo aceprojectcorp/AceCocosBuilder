@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritsFrom</key>
+	<string>CCNode</string>
+	<key>requireParentClass</key>
+	<string>AcePriorityMenu</string>
+	<key>canHaveChildren</key>
+	<string>YES</string>
+	<key>className</key>
+	<string>AceExtToggleButton</string>
+	<key>editorClassName</key>
+	<string>AceExtToggleButton</string>
+	<key>properties</key>
+	<array>
+		<dict>
+			<key>displayName</key>
+			<string>AceExtToggleButton_Setting</string>
+			<key>type</key>
+			<string>Separator</string>
+			<key>name</key>
+			<string>Setting</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>m_cbFunc</string>
+			<key>type</key>
+			<string>String</string>
+			<key>name</key>
+			<string>m_cbFunc</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>clickEffect</string>
+			<key>type</key>
+			<string>String</string>
+			<key>name</key>
+			<string>clickEffect</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>selected</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>selected</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>contentSizeRefresh</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>contentSizeRefresh</string>
+		</dict>
+	</array>
+	<key>spriteFrameDrop</key>
+	<dict>
+		<key>className</key>
+		<string>CCSprite</string>
+		<key>property</key>
+		<string>displayFrame</string>
+	</dict>
+</dict>
+</plist>

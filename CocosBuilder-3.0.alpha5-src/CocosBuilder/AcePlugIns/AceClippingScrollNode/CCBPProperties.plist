@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritsFrom</key>
+	<string>CCLayer</string>
+	<key>canHaveChildren</key>
+	<string>YES</string>
+	<key>className</key>
+	<string>AceClippingScrollNode</string>
+	<key>editorClassName</key>
+	<string>AceClippingScrollNode</string>
+	<key>properties</key>
+	<array>
+		<dict>
+			<key>displayName</key>
+			<string>AceClippingScrollNode_Setting</string>
+			<key>type</key>
+			<string>Separator</string>
+			<key>name</key>
+			<string>Setting</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>최대 가로 사이즈 제한</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>bMaxContentSizeW</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>최대 가로 사이즈(픽셀)</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>maxContentSizeW</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>최대 세로 사이즈 제한</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>bMaxContentSizeH</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>최대 세로 사이즈(픽셀)</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>maxContentSizeH</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>m_priority</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>m_priority</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>ScrollDir</string>
+			<key>type</key>
+			<string>IntegerLabeled</string>
+			<key>name</key>
+			<string>scrollDir</string>
+			<key>extra</key>
+			<string>UP_DOWN|0|LEFT_RIGHT|1</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>resetPositionLock</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>resetPositionLock</string>
+		</dict>
+	</array>
+	<key>spriteFrameDrop</key>
+	<dict>
+		<key>className</key>
+		<string>CCSprite</string>
+		<key>property</key>
+		<string>displayFrame</string>
+	</dict>
+</dict>
+</plist>

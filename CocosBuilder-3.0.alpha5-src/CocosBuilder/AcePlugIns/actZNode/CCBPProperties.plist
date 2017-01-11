@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritsFrom</key>
+	<string>CCNode</string>
+	<key>canHaveChildren</key>
+	<string>YES</string>
+	<key>className</key>
+	<string>actZNode</string>
+	<key>editorClassName</key>
+	<string>actZNode</string>
+	<key>requireChildClass</key>
+	<array>
+		<string>actMoveTo</string>
+		<string>actDelayTime</string>
+		<string>actPlace</string>
+		<string>actJumpTo</string>
+		<string>actBezierTo</string>
+		<string>actCardinalSplineTo</string>
+		<string>actCatmullRomTo</string>
+		<string>actScaleTo</string>
+		<string>actSkewTo</string>
+		<string>actRotationTo</string>
+		<string>actBlink</string>
+		<string>actShow</string>
+		<string>actHide</string>
+		<string>actToggleVisibility</string>
+		<string>actFadeIn</string>
+		<string>actFadeOut</string>
+		<string>actFadeTo</string>
+		<string>actTintTo</string>
+		<string>actOrbitCamera</string>
+	</array>
+	<key>properties</key>
+	<array>
+		<dict>
+			<key>displayName</key>
+			<string>actZNode_Setting</string>
+			<key>type</key>
+			<string>Separator</string>
+			<key>name</key>
+			<string>Setting</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>actionPlay</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>actionPlay</string>
+		</dict>
+	</array>
+</dict>
+</plist>

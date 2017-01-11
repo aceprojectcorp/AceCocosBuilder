@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritsFrom</key>
+	<string>CCNode</string>
+	<key>canHaveChildren</key>
+	<string>YES</string>
+	<key>className</key>
+	<string>AceTicker</string>
+	<key>editorClassName</key>
+	<string>AceTicker</string>
+	<key>properties</key>
+	<array>
+		<dict>
+			<key>displayName</key>
+			<string>AceTicker_Setting</string>
+			<key>type</key>
+			<string>Separator</string>
+			<key>name</key>
+			<string>Setting</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>moveDir</string>
+			<key>type</key>
+			<string>IntegerLabeled</string>
+			<key>name</key>
+			<string>moveDir</string>
+			<key>extra</key>
+			<string>LEFT|0|RIGHT|1|UP|2|DOWN|3</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>speed</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>speed</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>stopDelay</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>stopDelay</string>
+		</dict>
+	</array>
+</dict>
+</plist>

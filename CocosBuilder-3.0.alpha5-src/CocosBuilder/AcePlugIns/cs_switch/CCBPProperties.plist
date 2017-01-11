@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritsFrom</key>
+	<string>CCNode</string>
+	<key>canHaveChildren</key>
+	<string>YES</string>
+	<key>className</key>
+	<string>cs_switch</string>
+	<key>editorClassName</key>
+	<string>cs_switch</string>
+	<key>requireChildClass</key>
+	<array>
+		<string>cs_switch_case</string>
+		<string>cs_switch_default</string>
+	</array>
+	<key>properties</key>
+	<array>
+		<dict>
+			<key>displayName</key>
+			<string>cs_switch_Setting</string>
+			<key>type</key>
+			<string>Separator</string>
+			<key>name</key>
+			<string>Setting</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>value</string>
+			<key>type</key>
+			<string>String</string>
+			<key>name</key>
+			<string>value_string</string>
+		</dict>
+	</array>
+</dict>
+</plist>

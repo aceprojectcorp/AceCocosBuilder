@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritsFrom</key>
+	<string>CCNode</string>
+	<key>canHaveChildren</key>
+	<string>YES</string>
+	<key>className</key>
+	<string>AceMultiNode</string>
+	<key>editorClassName</key>
+	<string>AceMultiNode</string>
+	<key>properties</key>
+	<array>
+		<dict>
+			<key>displayName</key>
+			<string>AceMultiNode_Setting</string>
+			<key>type</key>
+			<string>Separator</string>
+			<key>name</key>
+			<string>AceMultiNode</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>최대 가로 사이즈 제한</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>bMaxContentSizeW</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>최대 가로 사이즈(픽셀)</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>maxContentSizeW</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>최대 세로 사이즈 제한</string>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>bMaxContentSizeH</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>최대 세로 사이즈(픽셀)</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>maxContentSizeH</string>
+		</dict>
+	</array>
+</dict>
+</plist>
