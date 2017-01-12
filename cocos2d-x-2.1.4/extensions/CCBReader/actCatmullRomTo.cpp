@@ -1,0 +1,18 @@
+//
+//  actCatmullRomTo.cpp
+//  ScrollViewTest
+//
+//  Created by 허정목 on 2014. 1. 13..
+//
+//
+
+#include "actCatmullRomTo.h"
+
+USING_NS_CC_EXT;
+
+void actCatmullRomTo::onEnter()
+{
+    CCNode::onEnter();
+    
+    
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>aceproject_rogo_.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4,4},{683,154}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{683,154}}</string>
+			<key>sourceSize</key>
+			<string>{683,154}</string>
+		</dict>
+		<key>com2us_.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4,164},{352,56}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{352,56}}</string>
+			<key>sourceSize</key>
+			<string>{352,56}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>ci_atl_01_.png</string>
+		<key>size</key>
+		<string>{691,224}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:6c483fd746edeee090c3a3cb5fbc12e2:34d8abe9bcff5dbf7fe59d3191551a7b:79bc74ce7f49cf8b3bade9934ac1a1c8$</string>
+		<key>textureFileName</key>
+		<string>ci_atl_01_.png</string>
+	</dict>
+</dict>
+</plist>
