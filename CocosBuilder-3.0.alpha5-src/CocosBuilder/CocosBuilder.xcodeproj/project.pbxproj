@@ -8845,7 +8845,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "defaults delete com.cocosbuilder.CocosBuilder\n";
+			shellScript = "";
 		};
 		E33BC1931510B2BD009AE29A /* Copy Built Product to Local Repository Directory */ = {
 			isa = PBXShellScriptBuildPhase;
