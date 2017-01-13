@@ -319,9 +319,6 @@
 		437839A71C71612E008BB9C8 /* ZMatrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 437839A51C71612E008BB9C8 /* ZMatrix.cpp */; };
 		437B177A1C6C387B00DCBB82 /* AceStencilNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 16448B3A1A93488C0063B18C /* AceStencilNode.m */; };
 		437B177C1C6C387B00DCBB82 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7789ABC2133AA82000CEFCC7 /* Cocoa.framework */; };
-		437B177E1C6C387B00DCBB82 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 16448B3E1A93488C0063B18C /* Info.plist */; };
-		437B177F1C6C387B00DCBB82 /* CCBPProperties.plist in Resources */ = {isa = PBXBuildFile; fileRef = 16448B3B1A93488C0063B18C /* CCBPProperties.plist */; };
-		437B17801C6C387B00DCBB82 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 16448B3C1A93488C0063B18C /* InfoPlist.strings */; };
 		437B17911C6C47E600DCBB82 /* CCBPProperties.plist in Resources */ = {isa = PBXBuildFile; fileRef = 437B17891C6C47E600DCBB82 /* CCBPProperties.plist */; };
 		437B17931C6C47E600DCBB82 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 437B178A1C6C47E600DCBB82 /* InfoPlist.strings */; };
 		437B17951C6C47E600DCBB82 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 437B178C1C6C47E600DCBB82 /* Info.plist */; };
@@ -8421,10 +8418,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				437B177E1C6C387B00DCBB82 /* Info.plist in Resources */,
-				437B177F1C6C387B00DCBB82 /* CCBPProperties.plist in Resources */,
 				437B17951C6C47E600DCBB82 /* Info.plist in Resources */,
-				437B17801C6C387B00DCBB82 /* InfoPlist.strings in Resources */,
 				437B17911C6C47E600DCBB82 /* CCBPProperties.plist in Resources */,
 				437B17931C6C47E600DCBB82 /* InfoPlist.strings in Resources */,
 			);
